@@ -28,7 +28,7 @@ bl_info = {
     "blender": (2, 83, 0),
     "warning": "",
     "tracker_url": "https://github.com/Joel-dev-IMP/jufo-oeff-5/issues/new",
-    "endpoint_url": "https://raw.githubusercontent.com/Joel-dev-IMP/jufo-oeff-5/main/endpoint.json",
+    "endpoint_url": "https://raw.githubusercontent.com/Joel-dev-IMP/jufo-oeff-8/main/endpoint.json",
     "category": "General"
 }
 
