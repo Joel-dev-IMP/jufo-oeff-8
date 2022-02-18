@@ -48,4 +48,4 @@ with open(ENDPOINT_PATH, "r") as f:
 endpoint_data["versions"].insert(0, new_endpoint_version)
 
 with open(ENDPOINT_PATH, "w+") as f:
-    json.dump(endpoint_data, f, indent=4)
+    json.dump(endpoint_data, f, indent=0)
