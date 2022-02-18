@@ -5,6 +5,20 @@
 "version": [
 1,
 1,
+9
+],
+"allow_automatic_download": true,
+"download_url": "https://github.com/Joel-dev-IMP/jufo-oeff-8/releases/download/1_1_9/jufo-oeff-8.zip",
+"minimum_blender_version": [
+2,
+83,
+0
+]
+},
+{
+"version": [
+1,
+1,
 8
 ],
 "allow_automatic_download": true,
