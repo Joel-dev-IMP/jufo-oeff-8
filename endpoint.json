@@ -1,0 +1,33 @@
+{
+    "schema_version": "super-addon-manager-version-info-1.0.0",
+    "versions": [
+        {
+            "version": [
+                1,
+                0,
+                1
+            ],
+            "allow_automatic_download": true,
+            "download_url": "https://github.com/Joel-dev-IMP/jufo-oeff-5/releases/download/1_0_1/jufo-oeff-5.zip",
+            "minimum_blender_version": [
+                2,
+                83,
+                0
+            ]
+        },
+        {
+            "version": [
+                1,
+                0,
+                0
+            ],
+            "allow_automatic_download": true,
+            "download_url": "https://github.com/Joel-dev-IMP/jufo-oeff-5/releases/download/1_0_0/jufo-oeff-5.zip",
+            "minimum_blender_version": [
+                2,
+                83,
+                0
+            ]
+        }
+    ]
+}
