@@ -1,6 +1,6 @@
 # ##### BEGIN GPL LICENSE BLOCK #####
 #
-#  <Demo Addon 1 Addon>
+#  <Demo Addon 4 Addon>
 #    Copyright (C) <2022>  <Joel Benkwitz>
 #
 #  This program is free software; you can redistribute it and/or
@@ -22,7 +22,7 @@
 import bpy
 
 bl_info = {
-    "name": "Demo Addon 1",
+    "name": "Demo Addon 4",
     "author": "Joel Benkwitz (BD)",
     "version": (1, 0, 1),
     "blender": (2, 83, 0),
@@ -33,6 +33,6 @@ bl_info = {
 }
 
 def register():
-    print("Demo Addon 1!")
+    print("Demo Addon 4!")
 def unregister():
     pass

@@ -3,7 +3,7 @@ import os
 
 INIT_PATH = "./__init__.py"
 ENDPOINT_PATH = "./endpoint.json"
-repo_url = "jufo-oeff-5"
+repo_url = "jufo-oeff-8"
 
 def get_new_version(old_version) -> list:
     if old_version[-1] <= 9:

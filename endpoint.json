@@ -8,7 +8,7 @@
                 1
             ],
             "allow_automatic_download": true,
-            "download_url": "https://github.com/Joel-dev-IMP/jufo-oeff-5/releases/download/1_0_1/jufo-oeff-5.zip",
+            "download_url": "https://github.com/Joel-dev-IMP/jufo-oeff-8/releases/download/1_0_1/jufo-oeff-8.zip",
             "minimum_blender_version": [
                 2,
                 83,
@@ -22,7 +22,7 @@
                 0
             ],
             "allow_automatic_download": true,
-            "download_url": "https://github.com/Joel-dev-IMP/jufo-oeff-5/releases/download/1_0_0/jufo-oeff-5.zip",
+            "download_url": "https://github.com/Joel-dev-IMP/jufo-oeff-8/releases/download/1_0_0/jufo-oeff-8.zip",
             "minimum_blender_version": [
                 2,
                 83,
