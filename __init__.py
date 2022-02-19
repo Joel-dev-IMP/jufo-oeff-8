@@ -24,7 +24,7 @@ import bpy
 bl_info = {
     "name": "Demo Addon 4",
     "author": "Joel Benkwitz (BD)",
-    "version": (1, 3, 6),
+    "version": (1, 3, 7),
     "blender": (2, 83, 0),
     "warning": "",
     "tracker_url": "https://github.com/Joel-dev-IMP/jufo-oeff-5/issues/new",
